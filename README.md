@@ -7,7 +7,8 @@ A comprehensive analysis of daily sales for a U.S. coffee shop chain with three 
 - [Business Questions Addressed](#business-questions-addressed)  
 - [Tools Used](#tools-used)  
 - [Methodology](#methodology)  
-- [Key Insights](#key-insights)  
+- [Key Insights](#key-insights)
+- [Dashboard](#Dashboard)  
 - [Recommendations](#recommendations)  
 - [Conclusion](#conclusion)  
 
