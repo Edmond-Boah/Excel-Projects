@@ -35,7 +35,7 @@ The visualizations highlight **sales and order trends**, **best-selling products
 
 ## Dashboard
 
-![Image 1](./images/img1.png)
+![Dashboard 1](https://github.com/Edmond-Boah/Excel-Projects/blob/main/image.png)
 
 
 ## Methodology  
