@@ -30,6 +30,7 @@ The visualizations highlight **sales and order trends**, **best-selling products
 
 - **Microsoft Excel** – Data cleaning, analysis, and visualization  
 - **DAX (Data Analysis Expressions)** – Calculated measures and KPIs  
+## Dashboard
 
 ## Methodology  
 
