@@ -49,12 +49,17 @@ The visualizations highlight **sales and order trends**, **best-selling products
 | Best-Selling Product | Sustainably Grown Coffee generated the highest revenue, contributing 11.92% of total revenue |
 | Customer Behavior | 55% of orders were placed between 7 a.m. and 10 a.m., showing a strong morning preference compared to afternoons and evenings |
 
+---
 ## Dashboard
 
 ![Dashboard 1](https://github.com/Edmond-Boah/Excel-Projects/blob/main/image.png)
 
 
+---
 
+![Dashboard 2](https://github.com/Edmond-Boah/Excel-Projects/blob/main/image%20(1).png)
+
+---
 ## Recommendations  
 
 - **Target Morning Sales**: Since most purchases occur in the morning, allocate more staff and marketing efforts to the 7–10 a.m. window to reduce wait times and boost sales.  
