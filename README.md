@@ -31,13 +31,6 @@ The visualizations highlight **sales and order trends**, **best-selling products
 - **Microsoft Excel** – Data cleaning, analysis, and visualization  
 - **DAX (Data Analysis Expressions)** – Calculated measures and KPIs
 
-
-
-## Dashboard
-
-![Dashboard 1](https://github.com/Edmond-Boah/Excel-Projects/blob/main/image.png)
-
-
 ## Methodology  
 
 - **Data Modelling**: Structured relationships between tables to enable smarter filtering, faster queries, and more dynamic visualizations.  
@@ -55,6 +48,12 @@ The visualizations highlight **sales and order trends**, **best-selling products
 | Sales Trend | Sales dipped slightly in February but rose month-over-month, peaking at $166,000 in June |
 | Best-Selling Product | Sustainably Grown Coffee generated the highest revenue, contributing 11.92% of total revenue |
 | Customer Behavior | 55% of orders were placed between 7 a.m. and 10 a.m., showing a strong morning preference compared to afternoons and evenings |
+
+## Dashboard
+
+![Dashboard 1](https://github.com/Edmond-Boah/Excel-Projects/blob/main/image.png)
+
+
 
 ## Recommendations  
 
