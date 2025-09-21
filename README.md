@@ -29,8 +29,14 @@ The visualizations highlight **sales and order trends**, **best-selling products
 ## Tools Used  
 
 - **Microsoft Excel** – Data cleaning, analysis, and visualization  
-- **DAX (Data Analysis Expressions)** – Calculated measures and KPIs  
+- **DAX (Data Analysis Expressions)** – Calculated measures and KPIs
+
+
+
 ## Dashboard
+
+![Image 1](./images/img1.png)
+
 
 ## Methodology  
 
